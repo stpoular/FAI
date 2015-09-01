@@ -3,6 +3,7 @@
 
 Demo file for the FAI detection algorithm presented in [1]. 
 It recreates the main detection experiment of [1].
+
 You may freely use this code for academic/research purposes, provided you cite [1].
 
 [1] S. Poularakis, A. Briassouli, and I. Kompatsiaris, "Full action instances for motion analysis," 
